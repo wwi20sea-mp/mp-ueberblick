@@ -10,7 +10,7 @@ Repositories, die hier verlinkt werden.
 
 
 ## Repositories
-- [Hier gibt es noch nichts.]
+- [Python-Intro](https://github.com/wwi20sea-mp/python-intro)
 
 ## Vorlesungsinhalte
 
