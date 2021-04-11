@@ -11,6 +11,7 @@ Repositories, die hier verlinkt werden.
 
 ## Repositories
 - [Python-Intro](https://github.com/wwi20sea-mp/python-intro)
+- [Übungsaufgaben](https://github.com/wwi20sea-mp/aufgaben)
 
 ## Vorlesungsinhalte
 
